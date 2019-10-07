@@ -1,8 +1,8 @@
 {
   "ApiUrl" : "https://translate.yandex.net/api/v1.5/tr.json/translate",
-  "ApiKey" : "trnsl.1.1.20171028T123106Z.d6a75740dfed64a6.06796bd34c02a8c33a521b498a90e032965a664a",
+  "ApiKey" : "ваш API-ключ Яндекс.Переводчика",
   "FromTo" : "en-ru",
   "TextSize" : 11500,
   "Prefix" : "ru_",
-  "Source" : "subs-src.srt"
+  "Source" : "ваш-файл-субтитров-в-формате-srt"
 }
